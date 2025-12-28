@@ -1,0 +1,15 @@
+ const contentData = {
+            movies: [
+                {
+                    id: 1,
+                    title: "Sew Their Names trailer - Coming Soon",
+                    image: "https://terriblemasterfilms.wordpress.com/wp-content/uploads/2024/06/poster01_director-copy.jpg?w=1400&h=",
+                    description: "Art, history, and community merge to weave a story about a retired federal judge confronting her family's past involvement in slavery and a group of Black quilters in a rural Alabama community helping to honor previously unknown victims of American enslavement.",
+                    category: "documentary",
+                    type: "movie"
+                },
+
+                https://www.youtube.com/embed/5dTsqmR81Ks → Sew Their Names trailer
+https://www.youtube.com/embed/JjLL-fEj0fw → Remembering Anarcha trailer
+https://www.youtube.com/embed/4SzMrgOY03Q → Commit to the Song trailer
+https://www.youtube.com/embed/V-tT5EprwU8 → Clover/Capri trailer
